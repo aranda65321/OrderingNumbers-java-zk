@@ -1,0 +1,75 @@
+<?page title="Auto Generated index.zul"?>
+<window style="margin:5% auto 10% 20%" title="" border="normal" width="1000px" apply="Controller.Ctrindex">
+	<grid id="listNumber">
+		<auxhead ><auxheader colspan="20" label="Ordenamiento Numero Aleatorios"/> </auxhead>
+		<columns>
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+		</columns>
+		<rows>
+		</rows>
+	</grid>
+	<grid id="lisb">
+		<columns>
+			<column label=""/>
+		</columns>
+		<rows>
+			
+		</rows>
+	</grid>
+	<grid id="orderedList">
+		<auxhead ><auxheader colspan="20" label="Numeros ordenados"/> </auxhead>
+		<columns>
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+			<column label="" />
+		</columns>
+		<rows>
+		</rows>
+	</grid>
+	<grid>
+		<columns>
+			<column label=""/>
+		</columns>
+		<rows>
+			<row>
+				<button label="Generar numeros" onClick="" id="generator" />
+			</row>
+		</rows>
+	</grid>
+</window>
